@@ -1,5 +1,21 @@
 <h1>Hi, I'm Sumit! <br/><a href="https://github.com/SumitSakarkar08">Programmer</a>, <a href="https://github.com/SumitSakarkar08/">Data Scientist Professional</a></h1>
 
+<h2> Certifications:</h2>
+
+- <b>Python for Data Science, AI and Developement</b>
+  - [IBM](https://www.coursera.org/account/accomplishments/certificate/Z4W6YVLXW58R)
+- <b>Tensorflow on Google Cloud</b>
+  - [Google Cloud](https://www.coursera.org/account/accomplishments/certificate/AZBPYTYKALMD)
+- <b>Google Cloud Big Data and Machine Learning Fundamentals</b>
+  - [Google Cloud](https://www.coursera.org/account/accomplishments/certificate/69DDFFRJUSUL)
+- <b>SQL for Data Science</b>
+  - [UC Davis](https://www.coursera.org/account/accomplishments/certificate/4GAB4JN8LK2Z)
+- <b>Communication in 21st Century Workplace</b>
+  - [UC Irvine](https://www.coursera.org/account/accomplishments/certificate/EJS3TVG8QYQM)
+- <b>Storytelling and Influencing: Communicate with Impact</b>
+  - [Macquarie University, Australia](https://www.coursera.org/account/accomplishments/certificate/QPM925ZCFX4P)
+
+  
 <h2> Data Analysis Projects:</h2>
 
 - <b>Analyzing Revenue Data</b>
@@ -47,23 +63,7 @@
 - <b>Web Personalisation based on User Interaction</b>
   - [IEEE](https://ieeexplore.ieee.org/document/9388384)
 
-<h2> Certifications:</h2>
 
-- <b>Python for Data Science, AI and Developement</b>
-  - [IBM](https://www.coursera.org/account/accomplishments/certificate/Z4W6YVLXW58R)
-- <b>Tensorflow on Google Cloud</b>
-  - [Google Cloud](https://www.coursera.org/account/accomplishments/certificate/AZBPYTYKALMD)
-- <b>Google Cloud Big Data and Machine Learning Fundamentals</b>
-  - [Google Cloud](https://www.coursera.org/account/accomplishments/certificate/69DDFFRJUSUL)
-- <b>SQL for Data Science</b>
-  - [UC Davis](https://www.coursera.org/account/accomplishments/certificate/4GAB4JN8LK2Z)
-
-    
-- <b>Communication in 21st Century Workplace</b>
-  - [UC Irvine](https://www.coursera.org/account/accomplishments/certificate/EJS3TVG8QYQM)
-- <b>Storytelling and Influencing: Communicate with Impact</b>
-  - [Macquarie University, Australia](https://www.coursera.org/account/accomplishments/certificate/QPM925ZCFX4P)
-  
 
 <h2> 🤳 Connect with me:</h2>
 
