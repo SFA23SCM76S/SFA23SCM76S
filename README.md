@@ -40,7 +40,7 @@
 - <b>Land Title Management System using Blockchain Technology</b>
   - [Description](https://www.linkedin.com/in/sumit-sakarkar)
 - <b>Traffic Counter</b>
-  - [Description](https://www.linkedin.com/in/sumit-sakarkar
+  - [Description](https://www.linkedin.com/in/sumit-sakarkar)
 
   <h2>👨‍💻 Research experience:</h2>
 
