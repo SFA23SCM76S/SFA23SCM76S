@@ -34,7 +34,7 @@
 - <b>Coupon Redemption Prediction</b>
   - [Repository](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
 - <b>Fake News Classifier</b>
-  - [Python](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
+  - [Python](https://github.com/SumitSakarkar08/Fake-News-Classifier)
 - <b>Object Detection</b>
   - [Kangaroo Detection](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
 - <b>Virality Prediction</b>
