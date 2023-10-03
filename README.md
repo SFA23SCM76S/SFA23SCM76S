@@ -28,7 +28,7 @@
 <h2> Data Science and ML Projects:</h2>
 
 - <b>Face Recognition based Attendance Management System</b>
-  - [Python](https://github.com/SumitSakarkar08)
+  - [Python](https://github.com/SumitSakarkar08/Attendance-Management-System)
 - <b>Autonomous UAV Object Delivery System</b>
   - [Autonomous drone and Return to Home Functionality](https://www.linkedin.com/in/sumit-sakarkar) 
 - <b>Coupon Redemption Prediction</b>
