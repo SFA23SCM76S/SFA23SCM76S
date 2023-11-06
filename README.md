@@ -1,5 +1,26 @@
 <h1>Hi, I'm Sumit! <br/><a href="https://github.com/SumitSakarkar08">Programmer</a>, <a href="https://github.com/SumitSakarkar08/">Data Scientist Professional</a></h1>
 
+<h2> Data Science and ML Projects:</h2>
+
+- <b>Face Recognition based Attendance Management System</b>
+  - [Python](https://github.com/SumitSakarkar08/Attendance-Management-System)
+- <b>Autonomous UAV Object Delivery System</b>
+  - [Autonomous drone and Return to Home Functionality](https://www.linkedin.com/in/sumit-sakarkar) 
+- <b>Coupon Redemption Prediction</b>
+  - [Repository](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
+- <b>Fake News Classifier</b>
+  - [Python](https://github.com/SumitSakarkar08/Fake-News-Classifier)
+- <b>Object Detection</b>
+- <b>Virality Prediction</b>
+  - [Bipolar Factory Internship work](https://github.com/SumitSakarkar08/Bipolar-Factory-Internship)
+- <b>Credit Card Freaud Detection</b>
+  - [Python](https://www.linkedin.com/in/sumit-sakarkar/)
+- <b>Revenue Prediction</b>
+  - [Abzooba - Data Scientist](https://www.linkedin.com/in/sumit-sakarkar/)
+- <b>Order Fullfilment Rate Prediction</b>
+  - [Abzooba - Data Scientist](https://www.linkedin.com/in/sumit-sakarkar/)
+  -
+
 <h2> Certifications:</h2>
 
 - <b>Python for Data Science, AI and Developement</b>
@@ -25,32 +46,13 @@
 - <b>Movie Recommendation</b>
 - <b>Weather Data Analysis</b>
 
-<h2> Data Science and ML Projects:</h2>
-
-- <b>Face Recognition based Attendance Management System</b>
-  - [Python](https://github.com/SumitSakarkar08/Attendance-Management-System)
-- <b>Autonomous UAV Object Delivery System</b>
-  - [Autonomous drone and Return to Home Functionality](https://www.linkedin.com/in/sumit-sakarkar) 
-- <b>Coupon Redemption Prediction</b>
-  - [Repository](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
-- <b>Fake News Classifier</b>
-  - [Python](https://github.com/SumitSakarkar08/Fake-News-Classifier)
-- <b>Object Detection</b>
-- <b>Virality Prediction</b>
-  - [Bipolar Factory Internship work](https://github.com/SumitSakarkar08/Bipolar-Factory-Internship)
-- <b>Credit Card Freaud Detection</b>
-  - [Python](https://www.linkedin.com/in/sumit-sakarkar/)
-- <b>Revenue Prediction</b>
-  - [Abzooba - Data Scientist](https://www.linkedin.com/in/sumit-sakarkar/)
-- <b>Order Fullfilment Rate Prediction</b>
-  - [Abzooba - Data Scientist](https://www.linkedin.com/in/sumit-sakarkar/)
 
 
 <h2> Programming experience:</h2>
 
 - <b>Frontend Developements</b>
   - [Aeromodelling Club Frontend](https://github.com/SumitSakarkar08/Aeromodelling_Frontend)
-  - [Saloon Appointment Frontend](https://github.com/SumitSakarkar08/Task-1/blob/master/index.html)
+  - [Saloon Appointment Frontend](https://github.com/SFA23SCM76S/Task-1/tree/master)
   - [Campus Selection Frontend](https://github.com/SumitSakarkar08/HTML-and-PHP-Web-Pages-for-A-student-Campus-Selection-process)
 - <b>Land Title Management System using Blockchain Technology</b>
   - [Description](https://www.linkedin.com/in/sumit-sakarkar)
