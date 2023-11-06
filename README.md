@@ -36,7 +36,6 @@
 - <b>Fake News Classifier</b>
   - [Python](https://github.com/SumitSakarkar08/Fake-News-Classifier)
 - <b>Object Detection</b>
-  - [Kangaroo Detection](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
 - <b>Virality Prediction</b>
   - [Bipolar Factory Internship work](https://github.com/SumitSakarkar08/Bipolar-Factory-Internship)
 - <b>Credit Card Freaud Detection</b>
