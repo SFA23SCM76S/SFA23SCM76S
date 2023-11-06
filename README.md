@@ -5,7 +5,7 @@
 - <b>Face Recognition based Attendance Management System</b>
   - [Python](https://github.com/SumitSakarkar08/Attendance-Management-System)
 - <b>Autonomous UAV Object Delivery System</b>
-  - [Autonomous drone and Return to Home Functionality](https://www.linkedin.com/in/sumit-sakarkar) 
+  - [Autonomous drone and Return to Home Functionality](https://www.linkedin.com/in/sumit-sakarkar/details/projects/) 
 - <b>Coupon Redemption Prediction</b>
   - [Repository](https://github.com/SumitSakarkar08/Coupon-Redemption-Prediction)
 - <b>Fake News Classifier</b>
@@ -55,9 +55,9 @@
   - [Saloon Appointment Frontend](https://github.com/SFA23SCM76S/Task-1/tree/master)
   - [Campus Selection Frontend](https://github.com/SumitSakarkar08/HTML-and-PHP-Web-Pages-for-A-student-Campus-Selection-process)
 - <b>Land Title Management System using Blockchain Technology</b>
-  - [Description](https://www.linkedin.com/in/sumit-sakarkar)
+  - [Description]([https://www.linkedin.com/in/sumit-sakarkar](https://www.linkedin.com/in/sumit-sakarkar/details/projects/))
 - <b>Traffic Counter</b>
-  - [Description](https://www.linkedin.com/in/sumit-sakarkar)
+  - [Description](https://www.linkedin.com/in/sumit-sakarkar/details/projects/)
 
 <h2> Research experience:</h2>
 
